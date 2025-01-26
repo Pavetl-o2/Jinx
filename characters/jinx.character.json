@@ -5,8 +5,8 @@
   "settings": {
       "secrets": {
           "WALLET_PUBLIC_KEY": "9d5W8X8MhF21thtijpJVoKdcw8Cjf72NAtaxA7hJiN6y",
-          "HEURIST_API_KEY": "pavelramirezb-61qba",
-          "BIRDEYE_API_KEY": "7a21faefe7644b448d6789898a3ae7d0"
+          "HEURIST_API_KEY": "",
+          "BIRDEYE_API_KEY": ""
       },
       "model": "hermes-3-llama3.1-8b",
       "voice": {
